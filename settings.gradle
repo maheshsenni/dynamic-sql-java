@@ -1,0 +1,2 @@
+rootProject.name = 'dynamic-sql-java'
+include 'jooq', 'spring-criteria-builder'
